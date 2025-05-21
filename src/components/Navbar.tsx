@@ -40,9 +40,11 @@ const Navbar = () => {
             <span className="text-primary">ReBoun</span>
             <span className="text-accent">Z</span>
           </span>
-          <div className="flex flex-col text-[10px] leading-tight text-neutral-500 mt-0.5">
+          <div className="flex items-center space-x-1 text-[10px] text-neutral-500 mt-0.5">
             <span>Innovate</span>
+            <span>·</span>
             <span>Create</span>
+            <span>·</span>
             <span>Inspire</span>
           </div>
         </a>
