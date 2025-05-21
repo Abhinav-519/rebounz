@@ -35,12 +35,16 @@ const Navbar = () => {
       isScrolled ? 'bg-white/80 backdrop-blur-lg shadow-md py-2' : 'bg-transparent py-4'
     }`}>
       <div className="container px-4 sm:px-6 lg:px-8 flex items-center justify-between">
-        <a href="#home" className="flex items-center">
+        <a href="#home" className="flex flex-col items-start">
           <span className="font-bold text-xl">
             <span className="text-primary">ReBoun</span>
             <span className="text-accent">Z</span>
           </span>
-          <span className="block text-xs text-neutral-500 hidden sm:block ml-1">Innovate · Create · Inspire</span>
+          <div className="flex flex-col text-[10px] leading-tight text-neutral-500 mt-0.5">
+            <span>Innovate</span>
+            <span>Create</span>
+            <span>Inspire</span>
+          </div>
         </a>
         
         <nav className="hidden md:flex items-center space-x-8">
