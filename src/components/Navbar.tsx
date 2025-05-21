@@ -41,9 +41,9 @@ const Navbar = () => {
             <span className="text-accent">Z</span>
           </span>
           <div className="flex items-center space-x-1 text-[10px] text-neutral-500 mt-0.5">
-            <span>Innovate</span>
+            <span>Ignite</span>
             <span>·</span>
-            <span>Create</span>
+            <span>Innovate</span>
             <span>·</span>
             <span>Inspire</span>
           </div>
