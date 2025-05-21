@@ -1,5 +1,5 @@
 import React from 'react';
-import { Hash, Facebook, Twitter, Linkedin, Instagram, ArrowUp } from 'lucide-react';
+import { Hash, Facebook, Twitter, Linkedin, Instagram, ArrowUp, Contact } from 'lucide-react';
 
 const Footer = () => {
   const scrollToTop = () => {
