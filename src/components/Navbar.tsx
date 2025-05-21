@@ -40,7 +40,7 @@ const Navbar = () => {
             <span className="text-primary">ReBoun</span>
             <span className="text-accent">Z</span>
           </span>
-          <span className="block text-xs text-neutral-500 hidden sm:block ml-1">Ignite · Transform · Elevate</span>
+          <span className="block text-xs text-neutral-500 hidden sm:block ml-1">Innovate · Create · Inspire</span>
         </a>
         
         <nav className="hidden md:flex items-center space-x-8">
