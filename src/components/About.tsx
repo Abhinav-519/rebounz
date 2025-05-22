@@ -40,10 +40,10 @@ const About = () => {
           <div className="fade-in">
             <h3 className="text-2xl font-bold mb-4">Our Story</h3>
             <p className="text-neutral-700 mb-6">
-              Founded with a vision to revolutionize how businesses leverage technology, ReBounZ has quickly established itself as a leader in the tech industry. Our journey began with a simple mission: to make cutting-edge technology accessible to businesses of all sizes.
+                ReBounZ began as the collective dream of five technologists who saw firsthand how off-the-shelf software and isolated AI tools often fell short of solving real business challenges. United by a passion for problem-solving and a commitment to transparency, we set out to build a company that would do things differently.  
             </p>
             <p className="text-neutral-700">
-              Today, we continue to grow and evolve, staying at the forefront of technological advancements and industry trends. Our team of expert engineers, designers, and strategists work together to deliver solutions that not only meet but exceed our clients' expectations.
+                From day one, we’ve championed an Agile, CRM-driven approach—keeping our clients deeply involved at every stage, adapting quickly to feedback, and fostering trust through open communication. Today, we’re proud to have grown into a nimble, full-service technology partner that crafts bespoke solutions, blending the best of human creativity and machine intelligence to deliver tangible, long-term value.
             </p>
           </div>
           
@@ -53,7 +53,7 @@ const About = () => {
               <div className="text-white text-center">
                 <h3 className="text-2xl font-bold mb-2">Our Vision</h3>
                 <p className="text-white/90">
-                  To be the catalyst for digital transformation, empowering businesses to innovate, grow, and succeed in an increasingly connected world.
+                At ReBounZ, we empower organizations of all sizes to unlock their full potential with intuitively designed, powerful, and secure AI, cloud, and mobile solutions that transform technology from a mere tool into a strategic partner for smarter innovation and sustainable growth.
                 </p>
               </div>
             </div>

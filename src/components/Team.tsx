@@ -3,8 +3,10 @@ import { Linkedin, Twitter, Mail, Contact } from 'lucide-react';
 import { useScrollAnimation } from '../hooks/useScrollAnimation';
 import abhinavImage from '/public/images/abhinav.jpg';
 import vamsiImage from '/public/images/vamsi.jpg';
+import vamsiImage2 from '/public/images/vamsi2.jpg';
 import mohanImage from '/public/images/mohan.jpg';
 import nikithaImage from '/public/images/nikitha.jpg';
+import charithaImage from '/public/images/charitha.jpg';
 
 const Team = () => {
   useScrollAnimation();
@@ -24,7 +26,7 @@ const Team = () => {
     {
       name: 'Vamsi Cheruku',
       role: 'CoFounder & CTO', 
-      image: vamsiImage,
+      image: vamsiImage2,
       portfolio: 'https://portfolio-vamsi-cherukus-projects.vercel.app/',
       bio: 'Engineering expert specializing in AI and cloud architecture with a passion for innovation.',
       social: {
@@ -55,7 +57,7 @@ const Team = () => {
     {
       name: 'Charitha Bavirisetti',
       role: 'CoFounder & COO',
-      image: 'https://images.pexels.com/photos/3796217/pexels-photo-3796217.jpeg?auto=compress&cs=tinysrgb&w=600',
+      image: charithaImage,
       bio: 'Operations expert with a proven track record in scaling startups and optimizing business processes.',
       social: {
         linkedin: 'https://www.linkedin.com/in/navya-charitha-bavirisetti-144a85203/',
